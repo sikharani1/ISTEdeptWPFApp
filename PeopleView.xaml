@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="ISTE.Views.PeopleView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ISTE.Models"
+             mc:Ignorable="d" 
+             
+             d:DesignHeight="600" d:DesignWidth="1300">
+    <UserControl.Resources>
+
+        <local:DesignationTemplateSelector x:Key="designationTemplateSelector">
+            <local:DesignationTemplateSelector.LTemplate>
+                <DataTemplate>
+                    <Grid Background="LightBlue">
+                        <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                    </Grid>
+                </DataTemplate>
+            </local:DesignationTemplateSelector.LTemplate>
+            <local:DesignationTemplateSelector.PTemplate>
+                <DataTemplate>
+                    <Grid Background="Salmon">
+                        <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                    </Grid>
+                </DataTemplate>
+            </local:DesignationTemplateSelector.PTemplate>
+            <local:DesignationTemplateSelector.VATemplate>
+                <DataTemplate>
+                    <Grid Background="Aqua">
+                        <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                    </Grid>
+                </DataTemplate>
+                </local:DesignationTemplateSelector.VATemplate>
+                <local:DesignationTemplateSelector.VLTemplate>
+                    <DataTemplate>
+                        <Grid Background="LightCoral">
+                            <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                        </Grid>
+                    </DataTemplate>
+                </local:DesignationTemplateSelector.VLTemplate>
+            <local:DesignationTemplateSelector.SLTemplate>
+                <DataTemplate>
+                    <Grid Background="Salmon">
+                        <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                    </Grid>
+                </DataTemplate>
+            </local:DesignationTemplateSelector.SLTemplate>
+            <local:DesignationTemplateSelector.DPTemplate>
+                <DataTemplate>
+                    <Grid Background="LightCyan">
+                        <Image Name="ItemImg" Source="{Binding image}" Width="100" />
+                    </Grid>
+                </DataTemplate>
+            </local:DesignationTemplateSelector.DPTemplate>
+
+        </local:DesignationTemplateSelector>
+
+
+
+
+    </UserControl.Resources>
+    <Grid>
+        <ScrollViewer Height="600">
+        <WrapPanel HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="1200">
+                <DataGrid Name="datagrid" ItemsSource="{Binding F}" RowDetailsTemplateSelector="{StaticResource designationTemplateSelector}" >
+           
+        </DataGrid>
+        </WrapPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
+

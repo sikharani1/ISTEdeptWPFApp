@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="ISTE.Views.Resources"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ISTE.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="400"/>
+        </Grid.ColumnDefinitions>
+
+        <Button  Height="20px" Grid.Column="1" Name="go" Click="Button_Click" Margin="362,0,348,580" RenderTransformOrigin="-0.083,0.675"   >RIT Website
+            <Button.ToolTip>
+                <ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Take me to the RIT website</TextBlock>
+                        <TextBlock>Onclick Navigates to the server.</TextBlock>
+                    </StackPanel>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <StackPanel Margin="0,0,0,0" Grid.ColumnSpan="2">
+            <WebBrowser Height="600px"  x:Name="ritwebsite" Margin="117,0,254,0" Visibility="Collapsed"/>
+        </StackPanel>
+
+        <Canvas  Grid.Column="1" Grid.ColumnSpan="2" Margin="682,212,0,0">
+            <Canvas Name="studyAbroad"  MouseDown="studyAbroad_MouseDown" Height="132" Width="156" Canvas.Top="30" Background="DarkBlue">
+                <TextBlock Text="Study Abroad" Foreground="white" Canvas.Left="43" Canvas.Top="56" RenderTransformOrigin="1.021,0.531">
+                </TextBlock>
+                <Canvas.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Study Abroad Details</TextBlock>
+                            <TextBlock>Onclick Shows the Study Abroad Details .</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Canvas.ToolTip>
+            </Canvas>
+            <Canvas Name="studentServices" MouseDown="studyAbroad_MouseDown" Height="150" Width="154" Canvas.Top="228" Canvas.Left="234" Background="Blue">
+                <TextBlock Text="Student Services" Foreground="white" Canvas.Left="39" Canvas.Top="66">
+                </TextBlock>
+                <Canvas.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Studentservices Details</TextBlock>
+                            <TextBlock>Onclick Shows the Student Services Details .</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Canvas.ToolTip>
+            </Canvas>
+        
+            <Canvas Name="studentAmbassadors" MouseDown="studyAbroad_MouseDown" Height="138" Width="156" Canvas.Top="129" Canvas.Left="112" Background="#417dc1">
+                <TextBlock Text="Student Ambassadors" Foreground="white" Canvas.Left="22" Canvas.Top="58" Height="16" Width="124">
+                </TextBlock>
+                <Canvas.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Student Ambassadors Details</TextBlock>
+                            <TextBlock>Onclick Shows the Student Ambassadors Details .</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Canvas.ToolTip>
+            </Canvas>
+        </Canvas>
+        <TextBlock Grid.Column="1" x:Name="res" TextWrapping="Wrap" Margin="600,0,37,408" Grid.ColumnSpan="2"/>
+    </Grid>
+</UserControl>

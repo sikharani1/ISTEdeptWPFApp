@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="ISTE.Views.AboutView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ISTE.Views"
+             mc:Ignorable="d" 
+             
+              d:DesignHeight="600"
+						 d:DesignWidth="1300"
+						 Background='#417dc1'>
+    <StackPanel>
+        <Grid Height="250" Margin='0,6,0,0'>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="60" />
+
+            </Grid.RowDefinitions>
+
+            <Image Source="/Images/banner.jpg"
+						 Stretch="Fill"
+						 Height="250"
+						 Grid.RowSpan="2" />
+
+            <Rectangle Fill="#66001E44"
+								 Grid.Row="1"
+								 HorizontalAlignment='Stretch' />
+            <Image Source="/Images/MapPin.png"
+						 Stretch="UniformToFill"
+						 Width="50"
+                  HorizontalAlignment="Left" Margin="246,176,0,24" Grid.RowSpan="2"
+						  />
+
+            <TextBlock Text="ISTE DEPARTMENT"
+								 Foreground="White"
+								 FontSize="28"
+								 FontWeight="Bold"
+								 Grid.Row="1"
+								 TextAlignment="Left"> <Hyperlink NavigateUri="https://www.google.com/maps/place/Rochester+Institute+of+Technology/@43.0861017,-77.672703,17z/data=!3m1!4b1!4m5!3m4!1s0x89d14c603a147e55:0xbe7eb31ed5e22c03!8m2!3d43.0861017!4d-77.6705143" RequestNavigate="Hyperlink_RequestNavigate" ToolTip="click here" FontSize="10px" TextDecorations="Underline" TargetName="RIT">
+        Click
+    </Hyperlink></TextBlock>
+								  
+            <TextBlock FontSize="14"
+								 TextWrapping='Wrap' FontWeight="Bold" Foreground="DarkOrange"
+								 Text="ROCHESTER INSTITUTE OF TECHNOLOGY" />
+                      
+   
+           
+
+        </Grid>
+
+        <StackPanel Orientation="Vertical"
+								Margin="10">
+
+
+            <TextBlock x:Name="txtItem" 
+                       Foreground="White"  
+								 FontSize="18"
+								 FontStyle="Italic" />
+            <TextBlock x:Name="description" HorizontalAlignment="Center" FontSize="14" 
+								 TextWrapping='Wrap' FontWeight="Bold"
+                       MaxWidth="400px" TextAlignment="Justify"
+								  />
+
+            <TextBlock x:Name="quote" FontSize="14"
+								 MaxWidth="400px"
+								 TextWrapping='Wrap'
+								 Foreground='orange'
+								 />
+
+        </StackPanel>
+        
+    </StackPanel>
+</UserControl>

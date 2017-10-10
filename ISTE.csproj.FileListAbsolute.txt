@@ -1,0 +1,135 @@
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\bin\Debug\ISTE.exe.config
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\bin\Debug\ISTE.exe
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\bin\Debug\ISTE.pdb
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\App.g.cs
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.cache
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.lref
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE.g.resources
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE.Properties.Resources.resources
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE.csproj.GenerateResource.Cache
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE.exe
+c:\users\sikha\documents\visual studio 2015\Projects\ISTE\ISTE\obj\Debug\ISTE.pdb
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\MainWindow.baml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\EntityFramework.dll
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\EntityFramework.xml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\AboutView.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\CoursesView.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\EmploymentView.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\MinorsView.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\PeopleView.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\AboutView.baml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\CoursesView.baml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\EmploymentView.baml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\MinorsView.baml
+C:\Users\Sikha\Documents\Visual Studio 2015\Projects\ISTE\ISTE\obj\Debug\Views\PeopleView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\ISTE.exe.config
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\EntityFramework.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\EntityFramework.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\AboutView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\CoursesView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\EmploymentView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MinorsView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\PeopleView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\App.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.cache
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.lref
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\AboutView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\CoursesView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\EmploymentView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MainWindow.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MinorsView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\PeopleView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.g.resources
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.Properties.Resources.resources
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.csproj.GenerateResource.Cache
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MapView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\MapView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\Resources.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\Views\Resources.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTE\ISTE\obj\Debug\ISTE.csprojResolveAssemblyReference.cache
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\ISTE.exe.config
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\EntityFramework.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\EntityFramework.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.csprojResolveAssemblyReference.cache
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\AboutView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\CoursesView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\EmploymentView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MapView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MinorsView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\PeopleView.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\Resources.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\App.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.cache
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.lref
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\AboutView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\CoursesView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\EmploymentView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MainWindow.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MapView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\MinorsView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\PeopleView.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\Views\Resources.baml
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.g.resources
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.Properties.Resources.resources
+C:\Users\Sikha\Downloads\ISTEold\ISTEnew\ISTE\ISTE\obj\Debug\ISTE.csproj.GenerateResource.Cache
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\ISTE.exe.config
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\ISTE.exe
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\ISTE.pdb
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\EntityFramework.dll
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\EntityFramework.xml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.csprojResolveAssemblyReference.cache
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\AboutView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\CoursesView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\EmploymentView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MapView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MinorsView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\PeopleView.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\Resources.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\App.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.cache
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE_MarkupCompile.lref
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\AboutView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\CoursesView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\EmploymentView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MainWindow.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MapView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\MinorsView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\PeopleView.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\Views\Resources.baml
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.g.resources
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.Properties.Resources.resources
+C:\Users\Sikha\Downloads\ISTEwebsiteWPF\ISTE\ISTE\obj\Debug\ISTE.csproj.GenerateResource.Cache

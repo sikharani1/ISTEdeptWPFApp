@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="ISTE.Views.MinorsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ISTE.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1300">
+    <Grid Margin="0,0,0,0">
+        <RadioButton x:Name="radioButton" Content="DBDDI-MN" Click="radioButton_Click"   HorizontalAlignment="Left" VerticalAlignment="Top" Margin="106,67,0,0" Width="80"/>
+        <RadioButton x:Name="radioButton1" Content="GIS-MN" Click="radioButton1_Click"    HorizontalAlignment="Left" Margin="106,100,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton2" Content="MEDINFO-MN" Click="radioButton2_Click"    HorizontalAlignment="Left" Margin="106,137,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton3" Content="MDDEV-MN" Click="radioButton3_Click"     HorizontalAlignment="Left" Margin="106,174,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton4" Content="MDEV-MN" Click="radioButton4_Click"     HorizontalAlignment="Left" Margin="106,258,0,0" VerticalAlignment="Top"/>
+
+        <RadioButton x:Name="radioButton6"  Content="NETSYS-MN" Click="radioButton6_Click"     HorizontalAlignment="Left" Margin="106,300,0,0" VerticalAlignment="Top"/>
+
+        <RadioButton x:Name="radioButton5" Content="WEBDD-MN" Click="radioButton5_Click"    HorizontalAlignment="Left" Margin="106,218,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton7" Content="WEBD-MN" Click="radioButton7_Click"     HorizontalAlignment="Left" VerticalAlignment="Top" Margin="106,35,0,0"/>
+
+        <Grid Name="desc" Margin="0,10,0,-10">
+
+
+
+        </Grid>
+        <Border CornerRadius="6"
+                BorderBrush="Blue"
+                Background="LightBlue" BorderThickness="1" HorizontalAlignment="Left" Height="280" Margin="563,35,0,0" VerticalAlignment="Top" Width="462">
+            <ScrollViewer Height="250px">
+                <TextBlock x:Name="minordetails" Width="369"  HorizontalAlignment="Stretch" VerticalAlignment="Center" TextWrapping="Wrap" Text="Click on any of the degrees listed to see the details...." RenderTransformOrigin="0.473,-1.818"/>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</UserControl>
